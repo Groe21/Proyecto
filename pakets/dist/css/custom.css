@@ -9,3 +9,9 @@
 .border-primary {
     border-color: #007bff !important; /* Cambia a tu color deseado */
 }
+.primary{
+    background-color: #27AE60 !important;
+}
+.card-primary{
+    background-color: #27AE60 !important;
+}
